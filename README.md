@@ -1,4 +1,4 @@
-# FTC Team 5197 Repo Insturctions
+# FTC Team 5197 Repo Instructions
 ## FTC Team 5197 Welcome!!
 This github repo is forked from the official FTC repo. 
 
