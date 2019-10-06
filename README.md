@@ -1,6 +1,7 @@
 # FTC Team 5197 Repo Instructions
 ## FTC Team 5197 Welcome!!
-This github repo is forked from the official FTC repo. 
+This github repo is copied from https://github.com/FTC-Team-5197-Gearheads/ftc_team_5197_2018_19, 
+with Gradle updates applied.
 
 ### ftc_team_5197_2018_19 Branching conventions
 There will always be a ``` master ``` branch. This is intended for fully functional competition ready code. It would be the target branch for releases of our robot code. If a feature is to be worked on for a while, you want to experiment, and/or need a non-changing codebase, branch off of ```master``` and appriopiately name your feature branch. Make sure to check for updates to master and ```rebase``` as needed. Your feature branch will be deleted after it is is pulled back to the ```master``` branch.
